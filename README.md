@@ -1,20 +1,154 @@
+<div align="center">
+
 # Hafiz Noval Rianto
 
+### Minecraft Content Creator • Fullstack Developer • Craffters Founder
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hafast2008) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hafast281811) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@hafast2008) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hapisnovalrianto@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&lines=Creating+Minecraft+Animations;Building+Web+Applications;Developing+Mods+and+Plugins;Streaming+Creative+Content;Crafting+Digital+Experiences" />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=2Hafast8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=2Hafast8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=2Hafast8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=2Hafast8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/Content-Creation-10B981?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web-Development-3B82F6?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Engineering-1F2937?style=for-the-badge&logo=node.js&logoColor=green"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=2Hafast8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🎮 About Me
+
+> Passionate about creating engaging Minecraft content and building scalable web applications that bring ideas to life.
+
+- 🎬 Creating Minecraft animations and cinematic content under **Craffters**
+- 💻 Building fullstack web applications with modern technologies
+- 🔌 Developing Minecraft plugins, mods, and server infrastructure
+- 📡 Streaming and engaging with the Minecraft community
+- 🚀 Combining creative storytelling with technical innovation
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" />
+
+<br/>
+<br/>
+
+## Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,mysql,postgresql,mongodb,firebase" />
+
+<br/>
+<br/>
+
+## Minecraft Development
+
+<img src="https://skillicons.dev/icons?i=java,spigot" />
+
+*Minecraft Server Development • Plugin Creation • Mod Development*
+
+<br/>
+<br/>
+
+## Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma,blender" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafiznovelrianto&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+# 🏆 Craffters Projects
+
+<div align="center">
+
+| Project | Type | Status |
+|---------|------|--------|
+| Minecraft Animations | Content | 🟢 Active |
+| Server Infrastructure | Backend | 🟢 Maintained |
+| Web Platform | Fullstack | 🟡 In Development |
+| Plugin Suite | Minecraft Dev | 🟢 Active |
+
+</div>
+
+---
+
+# 💻 Development Focus
+
+<div align="center">
+
+| Focus Area | Description |
+|---|---|
+| Content Creation | Minecraft animations, cinematics, and engaging videos |
+| Frontend Development | Interactive UI, responsive design, creative web experiences |
+| Backend Development | Server architecture, APIs, database design, game servers |
+| Full Stack | End-to-end application development from concept to deployment |
+| Minecraft Dev | Plugins, mods, server customization, community tools |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/hafiznovelrianto">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:hapisnovalrianto@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@craffters">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://twitch.tv/hafast">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 Currently Working On
+
+- 🎬 Advanced Minecraft animation techniques
+- 🌐 Expanding Craffters web platform
+- 🔌 New plugin features for community servers
+- 📚 Documenting development process and tutorials
+
+---
+
+# ⚡ Fun Fact
+
+> I believe in creating content that educates and inspires, whether through Minecraft cinematics or clean, scalable code. Every project is an opportunity to craft something meaningful.
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hafiznovelrianto&label=Profile%20Views&color=10B981&style=for-the-badge" />
+
+### Thanks for visiting my profile 🎮💻
+
+**Craffters** - Where Creativity Meets Code
+
+</div>

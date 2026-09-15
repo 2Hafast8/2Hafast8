@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 🚀 About Me<br><br>> Focused on building scalable, responsive, high-performance, and modern digital products.<br><br>- 🌐 Building modern web applications<br>- ⚙️ Designing backend systems & REST APIs<br>- 🎨 Creating clean and responsive UI/UX<br>- 🎮 Creating Minigame Website
+# Hafiz Noval Rianto
 
 
 ## 🌐 Socials:
